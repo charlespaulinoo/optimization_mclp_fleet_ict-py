@@ -12,4 +12,4 @@ Charles Paulino de Oliveira et al. Problema de Localização de Máxima Cobertur
 ![01](https://user-images.githubusercontent.com/105465851/172229885-75627d94-fd93-43a6-9f47-d1775519d78f.png)
 ![02](https://user-images.githubusercontent.com/105465851/172229894-92ef0e5b-31f7-4d57-88c9-9c883b9081e4.png)
 
-Implementação em linguagem de programação Python e executados pelo solver Gurobi na versão 11.0.0.
+Implementação em linguagem de programação Python e executados pelo solver PuLP.
